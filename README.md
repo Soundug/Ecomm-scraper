@@ -1,5 +1,10 @@
 # Ecomm-scraper
 --------------------------------------------------------------------
+
+![](6JlzZC.gif)
+
+
+
 # Aim
 
 - Crawls to Amazon website using selenium webdriver
