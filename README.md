@@ -15,3 +15,7 @@
 - requests
 - selenium 
 --------------------------------------------------------------------
+# Note 
+
+This project was a part of academic curriculum. 
+Build purely for educational purpose.
